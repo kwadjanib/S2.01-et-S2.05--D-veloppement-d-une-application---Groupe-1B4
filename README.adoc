@@ -1,4 +1,18 @@
-S2.01-et-S2.05--D-veloppement-d-une-application---Groupe-1B4
-Projet Saé S2.01 et S2.05 du développement d'une application
 
-Groupe 1B4
+Projet Saé S2.01 et S2.05 du développement d'une application
+= SAE 2.01 - 2.05 Développement d'une application Groupe 1B4
+
+
+==== Présentation de l'équipe et rôles respectifs
+
+- Clavel Simon
+(Mettre rôle)
+
+- Mirza Fozan
+(Mettre rôle)
+
+- Kwadjani Bilon 
+(Mettre rôle)
+
+- Garnil Esteban
+(Mettre rôle)
