@@ -1,5 +1,5 @@
 
-Projet Saé S2.01 et S2.05 du développement d'une application
+= Projet Saé S2.01 et S2.05 du développement d'une application
 = SAE 2.01 - 2.05 Développement d'une application Groupe 1B4
 
 
