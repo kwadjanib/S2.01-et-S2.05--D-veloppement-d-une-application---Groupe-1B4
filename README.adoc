@@ -20,7 +20,7 @@
 ==== Répartition des tâches et état d'avancement
 [options="header,footer"]
 |=======================
-|version|rôle     |use case   |cas...                 |   Clavel Simon | Bilon KWADJANI  |   Esteban Garnil | Fozan Mirza | 
+|version|rôle     |use case   |cas...                 |   Clavel Simon | Bilon KWADJANI  |   Esteban Garnil | Fozan Mirza 
 |1    |Chef d’Agence    |CRUD employé  |C|  | |
 |1    |Chef d’Agence    |CRUD employé  |R|  | |
 |1    |Chef d’Agence |CRUD employé  |U|  | |
