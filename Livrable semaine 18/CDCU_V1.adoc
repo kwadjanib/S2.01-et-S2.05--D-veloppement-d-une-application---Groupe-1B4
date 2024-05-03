@@ -179,7 +179,7 @@ Nous ne priorisons aucune de ces tâches car à nos yeux elles sont parfaitement
 [[chef-agenceV1]]
 ==== Chef d'Agence :
 
-Tous ces cas d'utilisation sont possible si le chef d'agence s'est authentifié avec son login et son mot de passe. 
+      Tous ces cas d'utilisation sont possible si le chef d'agence s'est authentifié avec son login et son mot de passe. 
 
 - Gérer (faire le "CRUD") les employés (guichetier et chef d'agence) : le chef d'agence peut créer, lire, mettre à jour et supprimer les informations des employés de son agence. 
 
