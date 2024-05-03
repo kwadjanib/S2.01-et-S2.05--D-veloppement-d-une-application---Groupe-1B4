@@ -34,9 +34,6 @@
     ** <<description-documents,Description des documents>>
 
   * <<foncts-version-existante,Fonctionnalitées de la version existante (V0)>>
-  
-    ** <<guichetierV0,Guichetier>>
-    ** <<chef-agenceV0,Chef d'agence>>
    
    
 - <<analyse-des-besoins,Analyse des besoins>>
