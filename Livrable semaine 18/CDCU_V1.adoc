@@ -50,8 +50,6 @@
 
 - <<analyse-des-contraintes,Analyse des contraintes>>
 
- ** <<contraintes-techniques,Contraintes techniques>>
-
  ** <<contraintes-juridiques-securite,Contraintes juridiques et de sécurité>>
     *** <<contraintes-juridiques,Juridiques>>
     *** <<contraintes-juridiques,Sécurité>>
@@ -178,14 +176,6 @@ Nous ne priorisons aucune de ces tâches car à nos yeux elles sont parfaitement
 
 [[analyse-des-contraintes]]
 == Analyse des contraintes
-
-[[contraintes-techniques]]
-=== Contraintes techniques
-
-- Le language utilisé pour implémenter l'application est le Java.
-- L'interface graphique utilise la librairie JavaFx.
-- La base de donnée doit être utiliser le langage SQL avec le SGBD Sql Developper.
-- L'outil de build utilisé est Maven.
 
 [[contraintes-juridiques-securite]]
 === Contraintes juridiques et de sécurité
