@@ -4,7 +4,7 @@
 |===
 | Version | Date
 
-| V1 | 12 mai 2023 
+| V1 | 3 mai 2024 
 |===
 
 === Équipe : 1B3
@@ -220,8 +220,8 @@ Nous ne priorisons aucune de ces tâches car à nos yeux elles sont parfaitement
 - Le développement de la solution doit respecté les délais fixés dans le gantt.
 - Les livrables seront sur github.
 - Le moyen de communication priviligié est Instagram.
-- Livraison V1 : prévue le 16/05/2023
-- Livraison V2 : prévue le 26/05/2023
+- Livraison V1 : semaine 18
+- Livraison V2 : semaine 19
 
 [[livrables]]
 === Livrables attendus
