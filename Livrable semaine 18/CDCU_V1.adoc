@@ -129,7 +129,7 @@ Enfin, ce projet s'inscrit dans une réorganisation globale des services bancair
 - DailyBank : Un projet maven étant la version V0 du projet.
 
 .Diagramme de classe de la V0
-image::..\..\ressources\images\dc-initialv0.svg[alt=Diagramme de classe V0]
+image::..\images\dc-initialv0.svg[alt=Diagramme de classe V0]
 
 [[foncts-version-existante]]
 === Fonctionnalitées de la version existante (V0)
@@ -137,7 +137,7 @@ image::..\..\ressources\images\dc-initialv0.svg[alt=Diagramme de classe V0]
 La version actuelle (V0) du logiciel bancaire permet aux guichetiers de modifier les informations des clients (adresse, téléphone, etc.), de créer un nouveau client, de consulter un compte et de débiter un compte. Les chefs d'agence peuvent rendre inactif un client.
 
 
-image::..\..\ressources\images\uc-initial-v0.svg[alt=UseCase V0]
+image::..\images\uc-initial-v0.svg[alt=UseCase V0]
 
 [[analyse-des-besoins]]
 == Analyse des besoins
