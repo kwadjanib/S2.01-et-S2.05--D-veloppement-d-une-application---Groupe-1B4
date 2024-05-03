@@ -129,7 +129,7 @@ Enfin, ce projet s'inscrit dans une réorganisation globale des services bancair
 - DailyBank : Un projet maven étant la version V0 du projet.
 
 .Diagramme de classe de la V0
-image::..\Image\dc-initialv0.svg[alt=Diagramme de classe V0]
+image::..\Image\dc-initialv1.svg[alt=Diagramme de classe V0]
 
 [[foncts-version-existante]]
 === Fonctionnalitées de la version existante (V0)
