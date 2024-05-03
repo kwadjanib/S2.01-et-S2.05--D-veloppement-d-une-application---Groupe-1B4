@@ -201,15 +201,15 @@ Nous ne priorisons aucune de ces tâches car à nos yeux elles sont parfaitement
 [[contraintes-juridiques]]
 ==== Contraintes juridiques :
 
--*Conformité réglementaire dans le secteur bancaire* : Cette section englobe les normes relatives à la lutte contre le blanchiment d'argent et la prévention de la fraude. Ainsi, l'application DailyBank doit être en mesure d'identifier et de contrecarrer les activités suspectes conformément aux réglementations bancaires en vigueur.
-      -*Protection de la vie privée des utilisateurs* : Cette partie traite des législations concernant la protection des données personnelles, telles que le RGPD en Europe. Pour se conformer à ces réglementations, l'application doit obtenir le consentement explicite des utilisateurs avant de collecter leurs données, tout en assurant la sécurité des informations stockées.
+	-*Conformité réglementaire dans le secteur bancaire* : Cette section englobe les normes relatives à la lutte contre le blanchiment d'argent et la prévention de la fraude. Ainsi, l'application DailyBank doit être en mesure d'identifier et de contrecarrer les activités suspectes conformément aux réglementations bancaires en vigueur.
+	-*Protection de la vie privée des utilisateurs* : Cette partie traite des législations concernant la protection des données personnelles, telles que le RGPD en Europe. Pour se conformer à ces réglementations, l'application doit obtenir le consentement explicite des utilisateurs avant de collecter leurs données, tout en assurant la sécurité des informations stockées.
       
 
 [[contraintes-securite]]
 ==== Contraintes de sécurité :
 
--*Authentification et contrôle d'accès* : L'application de DailyBank doit instaurer un système d'authentification et de contrôle d'accès robuste pour tous les utilisateurs, qu'il s'agisse des employés de guichet ou des directeurs d'agence. Chaque utilisateur doit posséder des identifiants uniques, accompagnés d'un mot de passe, pour accéder à l'application. Les niveaux d'accès doivent être définis en fonction des rôles et des responsabilités de chaque individu, garantissant ainsi la sécurité et la confidentialité des données.
-      -*Sécurité des transactions et conservation des données* : Cette étape englobe la mise en place de mesures de sécurité pour sécuriser les transactions en ligne et préserver la confidentialité des informations. Elle inclut également le respect des exigences légales en matière d'archivage et de conservation des données imposées par les réglementations bancaires, obligeant ainsi à conserver les données de manière sûre et fiable.
+	-*Authentification et contrôle d'accès* : L'application de DailyBank doit instaurer un système d'authentification et de contrôle d'accès robuste pour tous les utilisateurs, qu'il s'agisse des employés de guichet ou des directeurs d'agence. Chaque utilisateur doit posséder des identifiants uniques, accompagnés d'un mot de passe, pour accéder à l'application. Les niveaux d'accès doivent être définis en fonction des rôles et des responsabilités de chaque individu, garantissant ainsi la sécurité et la confidentialité des données.
+	-*Sécurité des transactions et conservation des données* : Cette étape englobe la mise en place de mesures de sécurité pour sécuriser les transactions en ligne et préserver la confidentialité des informations. Elle inclut également le respect des exigences légales en matière d'archivage et de conservation des données imposées par les réglementations bancaires, obligeant ainsi à conserver les données de manière sûre et fiable.
       -*Protection contre les attaques par injection* : L'application doit intégrer des mécanismes de défense contre les attaques par injection, telles que les injections SQL ou les injections de scripts. À cette fin, toutes les entrées fournies par l'utilisateur doivent subir une validation rigoureuse, un filtrage adéquat et un échappement afin de prévenir l'exécution de code malveillant ou l'accès non autorisé aux données.
       -*Gestion des erreurs et des exceptions* : L'application doit être conçue pour gérer les erreurs et les exceptions de manière sécurisée. Les messages d'erreur générés par l'application ne doivent pas divulguer d'informations sensibles ni fournir de pistes sur la structure interne du système. Des mécanismes adéquats doivent être mis en place pour enregistrer et suivre les erreurs, facilitant ainsi leur analyse et leur résolution ultérieure.
       
@@ -231,13 +231,7 @@ Les livrables du projet sont :
 * Pour la partie Gestion de projet : 
 ** Un GANTT de la planification des taches lors du projet
 ** Un CDCU (Cahier Des Charges Utilisateurs)
-** Une Documentation Utilisateur
-** Un chiffrage du projet
 
-* Pour la partie Developpement :
-** Le Jar (l'application fonctionnel)
-** Une Documentation Technique
-** Un Cahier de Recette (Tests)
 
 [[conclusion]]
 == Conclusion
