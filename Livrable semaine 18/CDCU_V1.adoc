@@ -10,10 +10,10 @@
 === Équipe : 1B3
 
 === Membres :
-[cols="1,1,1", options="header"]
+[cols="1,1,1,1", options="header"]
 |===
 
-|Simon CLAVEL | Bilon KWADJANI |Fozan MIRZA |GARNIL Esteban |
+|Simon CLAVEL | Bilon KWADJANI |Fozan MIRZA |GARNIL Esteban 
 
 |===
 
