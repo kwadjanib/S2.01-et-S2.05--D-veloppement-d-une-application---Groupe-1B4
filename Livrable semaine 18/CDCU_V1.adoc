@@ -199,6 +199,8 @@ Nous ne priorisons aucune de ces tâches car à nos yeux elles sont parfaitement
 [[contraintes-organisationnelles]]
 === Contraintes techniques et organisationnelles
 
+- Travail sur eclipse
+- Travail sur vsCode
 - Le développement de la solution doit respecté les délais fixés dans le gantt.
 - Les livrables seront sur github.
 - Le moyen de communication priviligié est Instagram.
