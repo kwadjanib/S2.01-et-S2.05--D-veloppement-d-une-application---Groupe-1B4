@@ -54,7 +54,7 @@
     *** <<contraintes-juridiques,Juridiques>>
     *** <<contraintes-juridiques,Sécurité>>
 
- ** <<contraintes-organisationnelles,Contraintes organisationnelles>>
+ ** <<contraintes-organisationnelles,Contraintes techniques et organisationnelles>>
 - <<livrables,Livrables attendus>>
 
 - <<conclusion,Conclusion>>
@@ -197,7 +197,7 @@ Nous ne priorisons aucune de ces tâches car à nos yeux elles sont parfaitement
       
 
 [[contraintes-organisationnelles]]
-=== Contraintes organisationnelles
+=== Contraintes techniques et organisationnelles
 
 - Le développement de la solution doit respecté les délais fixés dans le gantt.
 - Les livrables seront sur github.
