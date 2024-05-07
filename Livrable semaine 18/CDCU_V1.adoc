@@ -65,7 +65,7 @@
 [[contexte]]
 === Contexte
 
-Le secteur bancaire européen est en pleine mutation avec l'essor des applications financières mobiles. Les banques traditionnelles doivent innover pour rester compétitives face à ces nouveaux acteurs axés sur l'expérience utilisateur numérique. La banque mobile connaît une croissance rapide, alimentée par l'adoption croissante des jeunes consommateurs. Les banques de détail doivent s'adapter en offrant des services numériques intuitifs et en repensant leurs stratégies de réseau physique. Cependant, cette transition n'est pas sans risques, notamment en ce qui concerne la sécurité des systèmes et les cyberattaques. Pour rester compétitives, les banques doivent se réinventer vers des modèles numériques plus engageants, tout en relevant les défis des tests d'applications pour garantir une expérience utilisateur optimale. 
+Le secteur bancaire européen se trouve actuellement au cœur d'une période de transformation marquée par l'émergence des applications financières mobiles. Ce changement est essentiellement motivé par la nécessité pour les banques traditionnelles de se réinventer afin de demeurer concurrentielles face à de nouveaux acteurs mettant l'accent sur l'expérience utilisateur numérique. La montée en puissance de la banque mobile est indéniable, portée par l'adoption croissante des jeunes consommateurs. Dans ce contexte, les banques de détail sont confrontées au défi de s'adapter en proposant des services numériques intuitifs tout en repensant leurs stratégies de présence physique sur le marché. Cependant, cette transition est parsemée de risques, notamment en ce qui concerne la sécurité des systèmes et les cyberattaques. Pour maintenir leur compétitivité, les banques doivent opérer une réinvention en profondeur vers des modèles numériques plus attractifs, tout en pertinent les défis liés aux tests d'applications pour garantir une expérience utilisateur optimale. 
 
 
 [[utilisateurs]]
@@ -199,6 +199,8 @@ Nous ne priorisons aucune de ces tâches car à nos yeux elles sont parfaitement
 [[contraintes-organisationnelles]]
 === Contraintes techniques et organisationnelles
 
+- Utilisation du langage Java
+- Utilisation d'une base de donnée Oracle
 - Travail sur eclipse
 - Travail sur vsCode
 - Le développement de la solution doit respecté les délais fixés dans le gantt.
